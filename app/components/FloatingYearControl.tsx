@@ -296,7 +296,7 @@ export function FloatingYearControl({
           >
             <button
               onClick={() => onShowEventLogChange(true)}
-              className="w-full rounded-t-[32px] bg-gray-100 dark:bg-gray-800 shadow-lg shadow-black/10 px-4 py-3"
+              className="w-full rounded-t-[32px] bg-white dark:bg-gray-900 shadow-lg shadow-black/10 px-4 py-3"
             >
               {/* Drag handle */}
               <div className="flex justify-center mb-2">
@@ -333,7 +333,7 @@ export function FloatingYearControl({
               animate={{ y: 0 }}
               exit={{ y: '100%' }}
               transition={{ type: 'tween', duration: 0.3, ease: 'easeOut' }}
-              className="fixed bottom-0 left-0 right-0 z-50 bg-gray-100 dark:bg-gray-800 rounded-t-[32px] shadow-2xl max-h-[70vh] flex flex-col"
+              className="fixed bottom-0 left-0 right-0 z-50 bg-white dark:bg-gray-900 rounded-t-[32px] shadow-2xl max-h-[70vh] flex flex-col"
             >
               {/* Handle */}
               <div className="flex justify-center pt-3 pb-2 flex-shrink-0">
