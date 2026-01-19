@@ -1,0 +1,1505 @@
+{
+  "generatedAt": "2026-01-19T00:05:08.790Z",
+  "mode": "APPLIED",
+  "totalUniqueTeams": 776,
+  "totalIssuesFound": 161,
+  "fixesApplied": 161,
+  "issuesByType": [
+    {
+      "type": "spelling",
+      "count": 97,
+      "corrections": [
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "North Sargetn",
+          "to": "North Sargent"
+        },
+        {
+          "from": "Lingerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "North Sargetn",
+          "to": "North Sargent"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Lindgerwood",
+          "to": "Lidgerwood"
+        },
+        {
+          "from": "Mindway/Minto",
+          "to": "Midway/Minto"
+        },
+        {
+          "from": "Argusvilleams/Edinburg/Milton-Osnabrock",
+          "to": "Argusville/Adams/Edinburg/Milton-Osnabrock"
+        },
+        {
+          "from": "Carringtring",
+          "to": "Carrington"
+        },
+        {
+          "from": "Bowdown-Hurdsfield/Sykeston",
+          "to": "Bowdon-Hurdsfield/Sykeston"
+        },
+        {
+          "from": "Carington",
+          "to": "Carrington"
+        },
+        {
+          "from": "Ashely",
+          "to": "Ashley"
+        },
+        {
+          "from": "Ashely",
+          "to": "Ashley"
+        },
+        {
+          "from": "Ashely",
+          "to": "Ashley"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Boeauttin",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Bottinuea",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Bottinuea",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Bobbineau",
+          "to": "Bottineau"
+        },
+        {
+          "from": "Border Cetnral",
+          "to": "Border Central"
+        },
+        {
+          "from": "Border Cetnral",
+          "to": "Border Central"
+        },
+        {
+          "from": "Border Cetnral",
+          "to": "Border Central"
+        },
+        {
+          "from": "Berthod",
+          "to": "Berthold"
+        },
+        {
+          "from": "Bisebee-Egeland",
+          "to": "Bisbee-Egeland"
+        },
+        {
+          "from": "Bisebee-Egeland",
+          "to": "Bisbee-Egeland"
+        },
+        {
+          "from": "Bisebee",
+          "to": "Bisbee"
+        },
+        {
+          "from": "Bisebee",
+          "to": "Bisbee"
+        },
+        {
+          "from": "Buelah",
+          "to": "Beulah"
+        },
+        {
+          "from": "Buelah",
+          "to": "Beulah"
+        },
+        {
+          "from": "Churchs FErry",
+          "to": "Churchs Ferry"
+        },
+        {
+          "from": "Bindord",
+          "to": "Binford"
+        },
+        {
+          "from": "Chruchs Ferry",
+          "to": "Churchs Ferry"
+        },
+        {
+          "from": "Berhold-Carpio",
+          "to": "Berthold-Carpio"
+        },
+        {
+          "from": "Bodwon",
+          "to": "Bowdon"
+        },
+        {
+          "from": "Bowdown",
+          "to": "Bowdon"
+        },
+        {
+          "from": "Bowdonw",
+          "to": "Bowdon"
+        },
+        {
+          "from": "Bowdonw",
+          "to": "Bowdon"
+        },
+        {
+          "from": "Bowdown",
+          "to": "Bowdon"
+        },
+        {
+          "from": "Burke Cout",
+          "to": "Burke County"
+        },
+        {
+          "from": "Burke Cout",
+          "to": "Burke County"
+        },
+        {
+          "from": "Burke Cout",
+          "to": "Burke County"
+        },
+        {
+          "from": "Burke Cout",
+          "to": "Burke County"
+        },
+        {
+          "from": "Burke Cout",
+          "to": "Burke County"
+        },
+        {
+          "from": "Divide Coutn",
+          "to": "Divide County"
+        },
+        {
+          "from": "Burke Centarl",
+          "to": "Burke Central"
+        },
+        {
+          "from": "burke Centarl",
+          "to": "Burke Central"
+        },
+        {
+          "from": "Buchanana",
+          "to": "Buchanan"
+        },
+        {
+          "from": "Buchanana",
+          "to": "Buchanan"
+        },
+        {
+          "from": "Buchanana",
+          "to": "Buchanan"
+        },
+        {
+          "from": "Courteney",
+          "to": "Courtenay"
+        },
+        {
+          "from": "Discoll",
+          "to": "Driscoll"
+        },
+        {
+          "from": "Buchanana",
+          "to": "Buchanan"
+        },
+        {
+          "from": "Buchanana",
+          "to": "Buchanan"
+        },
+        {
+          "from": "Berhtold",
+          "to": "Berthold"
+        },
+        {
+          "from": "Berhtold",
+          "to": "Berthold"
+        },
+        {
+          "from": "Berthod",
+          "to": "Berthold"
+        },
+        {
+          "from": "Burke Centra",
+          "to": "Burke Central"
+        },
+        {
+          "from": "Buelah",
+          "to": "Beulah"
+        },
+        {
+          "from": "Buelah",
+          "to": "Beulah"
+        },
+        {
+          "from": "Beulaheulah",
+          "to": "Beulah"
+        }
+      ]
+    },
+    {
+      "type": "capitalization",
+      "count": 31,
+      "corrections": [
+        {
+          "from": "DAkota",
+          "to": "Dakota"
+        },
+        {
+          "from": "DAkota",
+          "to": "Dakota"
+        },
+        {
+          "from": "DAkota",
+          "to": "Dakota"
+        },
+        {
+          "from": "DAkota",
+          "to": "Dakota"
+        },
+        {
+          "from": "CAvalier",
+          "to": "Cavalier"
+        },
+        {
+          "from": "DRayton",
+          "to": "Drayton"
+        },
+        {
+          "from": "sURREY",
+          "to": "Surrey"
+        },
+        {
+          "from": "sURREY",
+          "to": "Surrey"
+        },
+        {
+          "from": "sURREY",
+          "to": "Surrey"
+        },
+        {
+          "from": "gLENBURN",
+          "to": "Glenburn"
+        },
+        {
+          "from": "kENMARE",
+          "to": "Kenmare"
+        },
+        {
+          "from": "CAndo",
+          "to": "Cando"
+        },
+        {
+          "from": "CAndo",
+          "to": "Cando"
+        },
+        {
+          "from": "CAndo",
+          "to": "Cando"
+        },
+        {
+          "from": "CAndo",
+          "to": "Cando"
+        },
+        {
+          "from": "CAndo",
+          "to": "Cando"
+        },
+        {
+          "from": "BEach",
+          "to": "Beach"
+        },
+        {
+          "from": "BElfield",
+          "to": "Belfield"
+        },
+        {
+          "from": "BEulah",
+          "to": "Beulah"
+        },
+        {
+          "from": "BEulah",
+          "to": "Beulah"
+        },
+        {
+          "from": "DRake",
+          "to": "Drake"
+        },
+        {
+          "from": "BAlfour",
+          "to": "Balfour"
+        },
+        {
+          "from": "CAthay",
+          "to": "Cathay"
+        },
+        {
+          "from": "CAthay",
+          "to": "Cathay"
+        },
+        {
+          "from": "DRiscoll",
+          "to": "Driscoll"
+        },
+        {
+          "from": "DRiscoll",
+          "to": "Driscoll"
+        },
+        {
+          "from": "BAlfour",
+          "to": "Balfour"
+        },
+        {
+          "from": "DRake",
+          "to": "Drake"
+        },
+        {
+          "from": "willow city",
+          "to": "Willow City"
+        },
+        {
+          "from": "willow city",
+          "to": "Willow City"
+        },
+        {
+          "from": "DESLacs",
+          "to": "Des Lacs"
+        }
+      ]
+    },
+    {
+      "type": "lowercase_start",
+      "count": 33,
+      "corrections": [
+        {
+          "from": "page",
+          "to": "Page"
+        },
+        {
+          "from": "linton",
+          "to": "Linton"
+        },
+        {
+          "from": "strasburg",
+          "to": "Strasburg"
+        },
+        {
+          "from": "tappen",
+          "to": "Tappen"
+        },
+        {
+          "from": "linton",
+          "to": "Linton"
+        },
+        {
+          "from": "strasburg",
+          "to": "Strasburg"
+        },
+        {
+          "from": "tappen",
+          "to": "Tappen"
+        },
+        {
+          "from": "minto",
+          "to": "Minto"
+        },
+        {
+          "from": "lakota",
+          "to": "Lakota"
+        },
+        {
+          "from": "lakota",
+          "to": "Lakota"
+        },
+        {
+          "from": "lakota",
+          "to": "Lakota"
+        },
+        {
+          "from": "sharon",
+          "to": "Sharon"
+        },
+        {
+          "from": "sharon",
+          "to": "Sharon"
+        },
+        {
+          "from": "surrey",
+          "to": "Surrey"
+        },
+        {
+          "from": "maddock",
+          "to": "Maddock"
+        },
+        {
+          "from": "hazen",
+          "to": "Hazen"
+        },
+        {
+          "from": "max",
+          "to": "Max"
+        },
+        {
+          "from": "karlsruhe",
+          "to": "Karlsruhe"
+        },
+        {
+          "from": "butte",
+          "to": "Butte"
+        },
+        {
+          "from": "karlsruhe",
+          "to": "Karlsruhe"
+        },
+        {
+          "from": "fessenden",
+          "to": "Fessenden"
+        },
+        {
+          "from": "harvey",
+          "to": "Harvey"
+        },
+        {
+          "from": "sykeston",
+          "to": "Sykeston"
+        },
+        {
+          "from": "tuttle",
+          "to": "Tuttle"
+        },
+        {
+          "from": "napoleon",
+          "to": "Napoleon"
+        },
+        {
+          "from": "hague",
+          "to": "Hague"
+        },
+        {
+          "from": "hauge",
+          "to": "Hauge"
+        },
+        {
+          "from": "sawyer",
+          "to": "Sawyer"
+        },
+        {
+          "from": "upham",
+          "to": "Upham"
+        },
+        {
+          "from": "souris",
+          "to": "Souris"
+        },
+        {
+          "from": "upham",
+          "to": "Upham"
+        },
+        {
+          "from": "westhope",
+          "to": "Westhope"
+        },
+        {
+          "from": "zap",
+          "to": "Zap"
+        }
+      ]
+    }
+  ],
+  "allCorrections": {
+    "spelling": {
+      "lindgerwood": "Lidgerwood",
+      "lingerwood": "Lidgerwood",
+      "bottinuea": "Bottineau",
+      "bobbineau": "Bottineau",
+      "boeauttin": "Bottineau",
+      "bisebee": "Bisbee",
+      "bisebee-egeland": "Bisbee-Egeland",
+      "buelah": "Beulah",
+      "beulaheulah": "Beulah",
+      "berhtold": "Berthold",
+      "berthod": "Berthold",
+      "berhold": "Berthold",
+      "berhold-carpio": "Berthold-Carpio",
+      "bindord": "Binford",
+      "bodwon": "Bowdon",
+      "bowdonw": "Bowdon",
+      "bowdown": "Bowdon",
+      "bowdown-hurdsfield/sykeston": "Bowdon-Hurdsfield/Sykeston",
+      "buchanana": "Buchanan",
+      "carington": "Carrington",
+      "carringtring": "Carrington",
+      "burke centarl": "Burke Central",
+      "burke centra": "Burke Central",
+      "burke cout": "Burke County",
+      "border cetnral": "Border Central",
+      "mindway/minto": "Midway/Minto",
+      "chruchs ferry": "Churchs Ferry",
+      "churchs ferry": "Churchs Ferry",
+      "courteney": "Courtenay",
+      "divide coutn": "Divide County",
+      "discoll": "Driscoll",
+      "ashely": "Ashley",
+      "north sargetn": "North Sargent",
+      "argusvilleams/edinburg/milton-osnabrock": "Argusville/Adams/Edinburg/Milton-Osnabrock"
+    },
+    "capitalization": {
+      "BAlfour": "Balfour",
+      "BEach": "Beach",
+      "BElfield": "Belfield",
+      "BEulah": "Beulah",
+      "CAndo": "Cando",
+      "CAthay": "Cathay",
+      "CAvalier": "Cavalier",
+      "DAkota": "Dakota",
+      "DESLacs": "Des Lacs",
+      "DRake": "Drake",
+      "DRayton": "Drayton",
+      "DRiscoll": "Driscoll",
+      "sURREY": "Surrey",
+      "gLENBURN": "Glenburn",
+      "kENMARE": "Kenmare",
+      "willow city": "Willow City"
+    }
+  },
+  "allTeamNames": [
+    "Adams",
+    "Adams-Edmore",
+    "Adams-Lankin",
+    "Adams/Edinburg/Milton-Osnabrock",
+    "Adams/Milton-Osnabrock",
+    "Alamo",
+    "Alexander",
+    "Almont",
+    "Alsen",
+    "Amenia",
+    "Anamoose",
+    "Aneta",
+    "Antler",
+    "Argusville",
+    "Argusvilleams/Edinburg/Milton-Osnabrock",
+    "Arthur",
+    "Arthur Dakota",
+    "Ashely",
+    "Ashley",
+    "Ashley/Zeeland",
+    "Ayr",
+    "BAlfour",
+    "BEach",
+    "BElfield",
+    "BEulah",
+    "Balfour",
+    "Balta",
+    "Barnes County North",
+    "Barnes County North (North Central/Wimbledon-Courtenay)",
+    "Beach",
+    "Beach Golva",
+    "Belcourt",
+    "Belfield",
+    "Benson County (Leeds/Maddock)",
+    "Berhold-Carpio",
+    "Berhtold",
+    "Berthod",
+    "Berthold",
+    "Berthold-Carpio",
+    "Beulah",
+    "Beulaheulah",
+    "Bindord",
+    "Binford",
+    "Bisbee",
+    "Bisbee-Egeland",
+    "Bisebee",
+    "Bisebee-Egeland",
+    "Bishop Ryan (Minot)",
+    "Bobbineau",
+    "Bodwon",
+    "Boeauttin",
+    "Border Aces",
+    "Border Aces (Border Centra/Rock Lake)",
+    "Border Aces (Border Central/Rock Lake)",
+    "Border Central",
+    "Border Central (Calvin)",
+    "Border Central-Rock Lake",
+    "Border Central/Rock Lake",
+    "Border Central/Rock Lake (Border Aces)",
+    "Border Cetnral",
+    "Bottineau",
+    "Bottinuea",
+    "Bowbells",
+    "Bowdon",
+    "Bowdonw",
+    "Bowdown",
+    "Bowdown-Hurdsfield/Sykeston",
+    "Bowman",
+    "Bowman County",
+    "Bowman/Rhame",
+    "Braddock",
+    "Buchanan",
+    "Buchanana",
+    "Buelah",
+    "Buffalo",
+    "Buffalo-Tower City",
+    "Burke Centarl",
+    "Burke Centra",
+    "Burke Centra/Columbus",
+    "Burke Central",
+    "Burke Central-Columbus",
+    "Burke Central/Bowbells",
+    "Burke County (Bowbells/Burke )",
+    "Burke Cout",
+    "Butte",
+    "Butte/Drake/Anamoose",
+    "Buxton",
+    "Buxton Central Valley",
+    "CAndo",
+    "CAthay",
+    "CAvalier",
+    "Calvin",
+    "Calvin Border Central",
+    "Cando",
+    "Cando/Bisbee-Egeland",
+    "Cardinal Muench",
+    "Cardinal-Muench",
+    "Carington",
+    "Carpio",
+    "Carrington",
+    "Carrington/Sykeston",
+    "Carringtring",
+    "Carson",
+    "Cass Valley North",
+    "Cass Valley North (Argusville)",
+    "Casselton",
+    "Cathay",
+    "Cavalier",
+    "Center",
+    "Center-Stanton",
+    "Central Cass",
+    "Central Cass(Casselton)",
+    "Central Prairie (Medina/Gackle-Streeter)",
+    "Central Valley",
+    "Chaffee",
+    "Chruchs Ferry",
+    "Churchs FErry",
+    "Churchs Ferry",
+    "Cleveland",
+    "Clifford-Galesburg",
+    "Colfax",
+    "Colfax (Richmond)",
+    "Colfax Richland",
+    "Columbus",
+    "Cooperstown",
+    "Courtenay",
+    "Courteney",
+    "Crary",
+    "Crary-NDSD",
+    "Crary-School for Deaf",
+    "Crosby (Divide County)",
+    "DAkota",
+    "DESLacs",
+    "DRake",
+    "DRayton",
+    "DRiscoll",
+    "Dakota",
+    "Dakota (Arthur)",
+    "Dakota Oyate (Selfridge-Solen)",
+    "Dakota Oyate (Solen/Selfridge)",
+    "Dakota Prairie",
+    "Dakota Prairie McVille-Aneta",
+    "Dakota Prairie Tolna",
+    "Dakota Prairie Unity-Michigan",
+    "Dakota/Cass Valley North",
+    "Deering",
+    "Des Lacs",
+    "Des Lacs-Burlington",
+    "Des-Lacs-Burlington",
+    "DesLacs",
+    "Devil's Lake St. Mary's",
+    "Devils Lake School for Deaf",
+    "Devils Lake St. Mary's",
+    "Dickey",
+    "Dickey Central",
+    "Dickey Central (Monago)",
+    "Dickinson Trinity",
+    "Discoll",
+    "Divide County",
+    "Divide Coutn",
+    "Divide county",
+    "Dodge",
+    "Dodge Golden Valley Zap",
+    "Dodge-Golden Valley-Zap",
+    "Dodge-Goldenvalley",
+    "Donnybrook",
+    "Drake",
+    "Drake-Anamoose",
+    "Drake/Butte",
+    "Drayton",
+    "Drayton/Edinburg",
+    "Drayton/St. Thomas",
+    "Drayton/Valley-Edinburg",
+    "Driscoll",
+    "Dulm",
+    "Dunsei",
+    "Dunseith",
+    "Eckelson",
+    "Edgeley",
+    "Edgely",
+    "Edgely/Kulm",
+    "Edinburg",
+    "Edmore",
+    "Egeland",
+    "Elgin",
+    "Elgin-New Leipzig",
+    "Ellendale",
+    "Emmons Central",
+    "Emore",
+    "Enderlin",
+    "Enderline",
+    "Epping",
+    "Erie",
+    "Esmond",
+    "Esmond-Balta",
+    "FEssenden",
+    "Fairmount",
+    "Fairmount/Campbell-Tintah",
+    "Fessenden",
+    "Finely",
+    "Fingal",
+    "Finley",
+    "Finley-Sharon",
+    "Finley-Sharon/Hope-Page",
+    "Flasher",
+    "Flaxton",
+    "Forbes",
+    "Fordville",
+    "Fordville-Lankin",
+    "Forman (Sargent Central)",
+    "Forman Sargent Central",
+    "Fort Toten",
+    "Fort Totten",
+    "Fort Yate Public",
+    "Fort Yates",
+    "Fort Yates Public",
+    "Fort Yates Public/Solen",
+    "Fort Yates public",
+    "Fort yates Public",
+    "Four Winds",
+    "Four Winds/Minnewakan",
+    "Four Winds/Minnewakan/Warwick",
+    "Four s",
+    "Ft. Totten",
+    "Ft. Totten (Four Winds)",
+    "Ft. Yates (SRCHS)",
+    "Fullerton",
+    "GAckle",
+    "GRandin",
+    "GRanville",
+    "Gackle",
+    "Gackle-Streeter",
+    "Gackle-streeter",
+    "Galesburg",
+    "Garrison",
+    "Glen Ullin",
+    "Glen Ullin/Hebron",
+    "Glenburn",
+    "Glenfield",
+    "Glenfield-Sutton",
+    "Glenfield-Sutton-McHenry",
+    "Glenvield0Sutton-McHenry",
+    "Golden VAlley",
+    "Golden Valley",
+    "Golden Valley-Dodge/Halliday",
+    "Golden Valley/Halliday",
+    "Golgen Valley",
+    "Golgen Valley-Zap",
+    "Golva",
+    "Goodrich",
+    "Goodrich-McClusky",
+    "Grace City",
+    "Grafton",
+    "Grafton/St. Thomas",
+    "Grandin",
+    "Grant County (Elgin-New Leipzig-Carson)",
+    "Granville",
+    "Grenora",
+    "Griggs County Central",
+    "Griggs Coutny Central",
+    "Grigs County central",
+    "Guelph",
+    "Gwinner",
+    "Gwinner (North Central)",
+    "Gwinner North Sargent",
+    "H-M-B",
+    "HOpe",
+    "Hacen",
+    "Hague",
+    "Halliday",
+    "Halliday/Golden Valley",
+    "Halliday/Golden Valley-Dodge",
+    "Hampden",
+    "Hankinson",
+    "Hannaford",
+    "Hannah",
+    "Harvey",
+    "Harvey/Goodrich",
+    "Harvey/Wells County",
+    "Hatton",
+    "Hatton/Northwood",
+    "Hauge",
+    "Hazelton",
+    "Hazelton-Moffiit-Braddock",
+    "Hazelton-Moffit",
+    "Hazelton-Moffit-Braddock",
+    "Hazen",
+    "Heart River (South Heart/Belfield)",
+    "Hebron",
+    "Hebron/Glen Ullin",
+    "Helton-Moffit",
+    "Hempden",
+    "Hett",
+    "Hettinger",
+    "Hettinger/Scranton",
+    "Hillsboro",
+    "Hoople",
+    "Hope",
+    "Hope-Page",
+    "Hope/Page",
+    "Hunter",
+    "Hurdsfield",
+    "Hzelton-Moffit",
+    "Hzen",
+    "Inkster Midway",
+    "Jud",
+    "Jud Kulm",
+    "K",
+    "Karlsruhe",
+    "Karsruhe",
+    "Kathryn",
+    "Kenmare",
+    "Kensa",
+    "Kensal",
+    "Kensal/Pingree-Buchanan",
+    "Kidder County (Steele/Tappen)",
+    "Killdeer",
+    "Killdeer/Halliday",
+    "Kindred",
+    "Kindred/Leonard",
+    "Kloten",
+    "Kulm",
+    "Kulm/Jud",
+    "LIsbon",
+    "LaMoure",
+    "LaMoure/Verona",
+    "Lakota",
+    "Lakota/Adams-Edmore",
+    "Lamoure",
+    "Langdon",
+    "Langdon Area",
+    "Lankin",
+    "Lansford",
+    "Larimore",
+    "Leeds",
+    "Leeds-Wolford",
+    "Leeds/ Wolford",
+    "Leeds/Wolford",
+    "Lefor",
+    "Leh-Streeter",
+    "Lehr",
+    "Lehr,",
+    "Lehr-Streeter",
+    "Lehr/Wishek",
+    "Leonard",
+    "Lewis & Clark",
+    "Lewis & Clark (Berthold)",
+    "Lewis & Clark (North Shore)",
+    "Lewis & Clark (North Shore)/White Shield",
+    "Lidgerwood",
+    "Lignite",
+    "Lignite (Burke County)",
+    "Lindgerwood",
+    "Lingerwood",
+    "Linton",
+    "Linton/HMB",
+    "Lisbon",
+    "Lisbon,",
+    "Litchville",
+    "Litchville-Kathryn",
+    "Litchville-Marion",
+    "Litchville-Marion/Monpelior",
+    "Litchville-Marion/Montpelier",
+    "Litchville-Marion/Motpelier",
+    "Luverne",
+    "MIchigan",
+    "MIdkota",
+    "MIdway",
+    "MLS (mohall-Landford/Sherwood)",
+    "MLS (mohall-Sherwood)",
+    "MOhall",
+    "MOtt",
+    "Maddock",
+    "Maddock/Esmond",
+    "Makota",
+    "Makota (North Shore)",
+    "Mandaree",
+    "Maple Valley",
+    "Maple Valley(Buffalo)",
+    "Maple Valley(Tower City)",
+    "Maple Valley-Oriska",
+    "Maple Valley/Oriska",
+    "MapleValley",
+    "Mapleton",
+    "Marion",
+    "Marion-Montpelier",
+    "Marion/Litchville",
+    "Max",
+    "Max Riverdale",
+    "Maxbass",
+    "Maxmass",
+    "May-Port CG",
+    "Mayville",
+    "Mayville-Portland",
+    "Mayville-Portland CG",
+    "Mayville-Portland CG, Thompson",
+    "Mayville-Portland Clifford-Galesburg",
+    "McClusky",
+    "McClusky/Goodrich",
+    "McGregor",
+    "McHenry",
+    "McVille",
+    "McVille-Aneta",
+    "Medina",
+    "Meinda",
+    "Mercer",
+    "Michigan",
+    "Midaway",
+    "Midkota",
+    "Midway",
+    "Midway (Inkster)",
+    "Midway/Minto",
+    "Milnor",
+    "Milton",
+    "Milton-Osnabrock",
+    "Mindway/Minto",
+    "Minnewaukan",
+    "Minnewaukan/Leeds",
+    "Minnewaukan/Sheyenne",
+    "Minot Ryan",
+    "Minot-Bishop-Ryan",
+    "Minto",
+    "MoHall/Sherwood",
+    "Mohall",
+    "Monago",
+    "Monango",
+    "Montepelier",
+    "Montepelior",
+    "Montpelier",
+    "Montpelior",
+    "Mott",
+    "Mott-Regent",
+    "Munich",
+    "Munich/Starkweather",
+    "Munihc",
+    "N.D. School for Deaf Devils Lake",
+    "NDSD",
+    "NDSD Devils Lake",
+    "NOrthwood",
+    "Napoleon",
+    "Neche",
+    "Nekoma",
+    "Nelson County North",
+    "Nelson county North",
+    "New",
+    "New Englad",
+    "New Englad/Regent",
+    "New Engladn/Regent",
+    "New England",
+    "New England St. Mary's",
+    "New England/Regent",
+    "New England?Regent",
+    "New Enland",
+    "New Enland/Regent",
+    "New Leipzig",
+    "New Rockford",
+    "New Rockford St. James",
+    "New Rockford Warwick",
+    "New Rockford-Sheyenne",
+    "New Salem",
+    "New Salem-Almont",
+    "New Salme",
+    "New Town",
+    "New salem",
+    "NewEngland/Regent",
+    "Newburg",
+    "Newburg-Kramer-Maxbass",
+    "Noonan",
+    "North",
+    "North Border",
+    "North Border (Neche, Pembina)",
+    "North Border (Neche/Pembina)",
+    "North Border (Walhalla/Neche/Pembina)",
+    "North Border (Walhalla/Pembina-Neche)",
+    "North Border (neche/Pembina)",
+    "North Border/Drayton",
+    "North Central",
+    "North Central Rogers",
+    "North Sargent",
+    "North Sargent (Gwinner)",
+    "North Sargetn",
+    "North Shore",
+    "North Shore-Lewis & Clark",
+    "North Shore/Plaza",
+    "North Star (Cando)",
+    "North Wood",
+    "North shore",
+    "Northern Cass",
+    "Northshore/Plaza",
+    "Northwood",
+    "Nroth Shore/Plaza",
+    "Oak Grove",
+    "Oak Grove Richland",
+    "Oakes",
+    "Oberon",
+    "Oriska",
+    "Osnabrock",
+    "Osnbrock",
+    "Our Redeemers (Minot)",
+    "Our redeemer's (Minot)",
+    "Our redeemers",
+    "P-B-K",
+    "P-B-K (Pingree-Buchanan/Kensal)",
+    "PIllsbury",
+    "Page",
+    "Page/Hope",
+    "Palermo",
+    "Palmero",
+    "Park River",
+    "Park River-Pisek",
+    "Park River/Fordvile-Lankin",
+    "Parshall",
+    "Pembina",
+    "Petersburg",
+    "Pettibone",
+    "Pettibone/Robinson",
+    "Pillsbury",
+    "Pilsbury",
+    "Pingree",
+    "Pingree-Buchana",
+    "Pingree-Buchanan",
+    "Pingree-Buchanan Kensal",
+    "Pingree-Buchanan-Kensal",
+    "Pingree-Buchanan/Kensal",
+    "Pisek",
+    "Plaza",
+    "Portland",
+    "Powers Lake",
+    "Powers Lake/Widrose-Alamo",
+    "RAy",
+    "Raleigh St. Gertrude's",
+    "Raleigh St. Gertrudes",
+    "Raleigh St. Gertrudge",
+    "Raleight St. Gertrugde",
+    "Ray",
+    "Ray-Wildrose-Alamo",
+    "Reeder",
+    "Regan",
+    "Regent",
+    "Rhame",
+    "Richardton",
+    "Richardton-TAylor",
+    "Richardton-Taylor",
+    "Richland",
+    "Richland (Colfax)",
+    "Riverdale",
+    "Robinson",
+    "Robinson-Woodworth",
+    "Rock Lake",
+    "Rock Lake-Border Central",
+    "Rock Late",
+    "Rogers North Central",
+    "Rola",
+    "Rolal",
+    "Rolette",
+    "Rolette/Wolford",
+    "Rolla",
+    "Rolla/Rock Lake",
+    "Rollete",
+    "Roseglen (White Shield",
+    "Roseglen White Shield",
+    "Rugby",
+    "SAwyer",
+    "SRCHS (Fort Yates)",
+    "ST. John",
+    "STanley",
+    "STanton",
+    "STrasburg",
+    "STreeter",
+    "Sanborn",
+    "Sargent Central",
+    "Sargent Central (Forman)",
+    "Sawer",
+    "Sawyer",
+    "Scrant",
+    "Scranton",
+    "Selfridge",
+    "Sentinel Butte",
+    "Sharon",
+    "Sheldon",
+    "Sheldon/Chaffee",
+    "Sheridan County",
+    "Sheridan County (McClusky Goodrich)",
+    "Sheridan County (McClusky/Goodrich)",
+    "Sheridan County (Mclusky/Goodrich)",
+    "Sheridn County (McClusky/Goodrich)",
+    "Sherood",
+    "Sheroowd",
+    "Sherwood",
+    "Sheyenne",
+    "Sheyenne/Minnewaukan",
+    "Sheynne",
+    "Shiloh Christian",
+    "Shiloh-Christian",
+    "Soen",
+    "Solen",
+    "Solen-Cannonball",
+    "Souris",
+    "South Border (Ashley/Wishek)",
+    "South Border(Ashley/Wishek)",
+    "South Heart",
+    "St. Gertrude's",
+    "St. Gertrude's (Raleigh)",
+    "St. Gertrudes's",
+    "St. John",
+    "St. John Wolford",
+    "St. Thomas",
+    "St. Thomas-Valley",
+    "St. Thomas/Valley",
+    "St. Thomasw",
+    "St.Thomas",
+    "Standing Rock",
+    "Standing Rock (Fort Yates)",
+    "Standing Rock Community Grant (Fort Yates)",
+    "Standing Rock Community Grant School ((Fort Yates)",
+    "Standing Rock Community Grant School (Fort Yates)",
+    "Standing Rock Community High School",
+    "Standing Rock Communty (Fort Yates)",
+    "Standing Rock/Selfridge",
+    "StandingRock/Selfridge",
+    "Stanley",
+    "Stanton",
+    "Starkweather",
+    "Starkweather (ND School for Deaf)",
+    "Starkweather/Munich",
+    "Steele",
+    "Steele-Dawson",
+    "Strasburg",
+    "Strasburg Central Emmons",
+    "Strasburg Emmons",
+    "Strasburg Emmons Central",
+    "Strasburg-Zeeland",
+    "Strasburg/Zeeland",
+    "Strasuburg",
+    "Strausburg",
+    "Strausburg/Zeeland",
+    "Streel",
+    "Streeter",
+    "Streeter-Lehr",
+    "Surrey",
+    "Sykeston",
+    "Sykeston/Bowdon",
+    "TAppen",
+    "TC County (Bisbee-Egeland/Rock Lake)",
+    "TC County (Bisbee-Egeland/Rock Lake/Border Central)",
+    "TC County (Bisbee-Egeland/Rock Lake/BorderCentral",
+    "TGU (Granville)",
+    "TGU (Towner/Granville)",
+    "TGU (Towner/Willow City)",
+    "TGU-WC (Towner/Granville-Willow City)",
+    "Tappe",
+    "Tappen",
+    "Tappen/Robinson",
+    "Taylor",
+    "Thompson",
+    "Tinity Christian (Williston)",
+    "Tioga",
+    "Tolley",
+    "Tolna",
+    "Tolna Unity",
+    "Tower City",
+    "Towner",
+    "Towner/Upham",
+    "Towner/Upham/WillowCity",
+    "Trenton",
+    "Tri County (Drake/Anamoose/Butte)",
+    "Tri County (Edinburg/Adams/Milton/Osnabrock)",
+    "Tri-County (Adams, Edmore/Milton-Osnabrock)",
+    "Tri-County (Drake/Anamoose/Butte)",
+    "Tri-County (Edmore/Adams/Milton-Osnabrock)",
+    "Trinity Christain",
+    "Trinity Christian",
+    "Trinity Christian (Williston)",
+    "Turtle Lake",
+    "Turtle Lake-Mercer",
+    "Turtle Lake-Mercer/McClusky",
+    "Tuttle",
+    "UNDERWOOD",
+    "Underwood",
+    "Underwood/Riverdale",
+    "Underwoodd",
+    "Unity",
+    "Unity of Petersburg",
+    "Unity-Michigan",
+    "Upham",
+    "VElva",
+    "Valley",
+    "Valley (Hoople-Crystal)",
+    "Valley City",
+    "Valley City College High",
+    "Valley City St. Catherines",
+    "Valley Edinburg",
+    "Valley of Hoople-Crystal",
+    "Valley-Edinburg",
+    "Valley-St. Thomas",
+    "Valley-St.Thomas",
+    "Valley/St. Thomas",
+    "Velva",
+    "Velva/Karlsruhe",
+    "Velva/Sawyer",
+    "Verona",
+    "WEsthope",
+    "Walhalla",
+    "Warwick",
+    "Washburn",
+    "Watford City",
+    "Watford City/Alexander",
+    "Watfordcity",
+    "Wells County (Fessenden-Bowdon)",
+    "Wells County (Fessenden-Bowdon/Sykeston)",
+    "Wells County (Sykeston/Fessenden-Bowdon)",
+    "Westhope",
+    "Westhope-Souris",
+    "Westhope/Newburg",
+    "Wheatland",
+    "While Shield",
+    "White Shield",
+    "White shield",
+    "Wildrose",
+    "Wildrose-Alamo",
+    "Willow City",
+    "Willow Wity",
+    "Willow city",
+    "Wilrdose-Alamo",
+    "Wilrose-Alamo",
+    "Wilton",
+    "Wilton/Wing",
+    "Wimbledon",
+    "Wimbledon-Courtenay",
+    "Wimbledon-Courteney",
+    "Wimbledon-Courtney",
+    "Wing",
+    "Wing-Tuttle",
+    "Wing/Tuttle",
+    "Wing/Tuttle-Pettibone",
+    "Wing=Tuttle",
+    "Wishek",
+    "Wishek/Lehr",
+    "Wolford",
+    "Woodworth",
+    "Woodworth-Pettibone-Robinson",
+    "Wyndemere",
+    "Wyndmere",
+    "Wyndmere/Lidgerwood",
+    "Zap",
+    "Zeeland",
+    "burke Centarl",
+    "butte",
+    "fessenden",
+    "gLENBURN",
+    "hague",
+    "harvey",
+    "hauge",
+    "hazen",
+    "kENMARE",
+    "karlsruhe",
+    "lakota",
+    "linton",
+    "maddock",
+    "max",
+    "minto",
+    "napoleon",
+    "page",
+    "sURREY",
+    "sawyer",
+    "sharon",
+    "souris",
+    "strasburg",
+    "surrey",
+    "sykeston",
+    "tappen",
+    "tuttle",
+    "upham",
+    "westhope",
+    "willow city",
+    "zap"
+  ]
+}

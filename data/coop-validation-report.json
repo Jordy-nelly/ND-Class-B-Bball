@@ -1,0 +1,1328 @@
+{
+  "generatedAt": "2026-01-17T23:58:43.364Z",
+  "summary": {
+    "matched": 55,
+    "newCoops": 1,
+    "dissolved": 86,
+    "membershipChanges": 19,
+    "nameVariations": 1
+  },
+  "sections": {
+    "newCoops": [
+      {
+        "scrapedName": "Cooperative Sponsorships",
+        "coopName": "erative Sponsorships",
+        "componentSchools": [],
+        "yearsActive": [
+          2026
+        ],
+        "status": "new",
+        "matchedTo": null,
+        "issues": []
+      }
+    ],
+    "membershipChanges": [
+      {
+        "scrapedName": "Bowman County co-op [Bowman/Rhame]",
+        "coopName": "Bowman County co-op",
+        "componentSchools": [
+          "Bowman",
+          "Rhame"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Bowman County co-op",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Rhame"
+            ],
+            "removed": [
+              "Scranton"
+            ]
+          }
+        ]
+      },
+      {
+        "scrapedName": "Bowman County co-op [Bowman/Rhame/Scranton]",
+        "coopName": "Bowman County co-op",
+        "componentSchools": [
+          "Bowman",
+          "Rhame",
+          "Scranton"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Bowman County co-op",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Rhame"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Des Lacs-BurlingtonDes Lacs",
+        "coopName": "Des Lacs-BurlingtonDes Lacs",
+        "componentSchools": [
+          "Des Lacs",
+          "BurlingtonDes Lacs"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Des Lacs-Burlington",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Des Lacs",
+              "BurlingtonDes Lacs"
+            ],
+            "removed": []
+          },
+          {
+            "type": "name_variation",
+            "scraped": "Des Lacs-BurlingtonDes Lacs",
+            "existing": "Des Lacs-Burlington",
+            "similarity": 0.9
+          }
+        ]
+      },
+      {
+        "scrapedName": "Drayton/Valley-EdinburgDrayton",
+        "coopName": "Drayton/Valley-EdinburgDrayton",
+        "componentSchools": [
+          "Drayton",
+          "Valley-EdinburgDrayton"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Drayton/St. Thomas",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Valley-EdinburgDrayton"
+            ],
+            "removed": [
+              "St. Thomas"
+            ]
+          }
+        ]
+      },
+      {
+        "scrapedName": "Grant County co-op [Carson/Elgin-New Leipzig/Mott-Regent]",
+        "coopName": "Grant County co-op",
+        "componentSchools": [
+          "Carson",
+          "Elgin-New Leipzig",
+          "Mott",
+          "Regent"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Grant County co-op",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Mott",
+              "Regent"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Kenmare/Bowbells",
+        "coopName": "Kenmare/Bowbells",
+        "componentSchools": [
+          "Kenmare",
+          "Bowbells"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Kenmare",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Kenmare",
+              "Bowbells"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Kidder County co-op [Steele/Tappen/Wing/Napoleon]",
+        "coopName": "Kidder County co-op",
+        "componentSchools": [
+          "Steele",
+          "Tappen",
+          "Wing",
+          "Napoleon"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Kidder County co-op",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Wing",
+              "Napoleon"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Lewis & Clark [Berthold/Our Redeemer's Christian/North Shore]",
+        "coopName": "Lewis & Clark",
+        "componentSchools": [
+          "Berthold",
+          "Our Redeemer's Christian",
+          "North Shore"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Berthold",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Berthold",
+              "Our Redeemer's Christian",
+              "North Shore"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Midkota/Kensal",
+        "coopName": "Midkota/Kensal",
+        "componentSchools": [
+          "Midkota",
+          "Kensal"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Midkota",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Midkota",
+              "Kensal"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Nelson County co-op [Lakota/Dakota Prairie]",
+        "coopName": "Nelson County co-op",
+        "componentSchools": [
+          "Lakota",
+          "Dakota Prairie"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Lakota",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Lakota",
+              "Dakota Prairie"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "North Border co-op [Walhalla/Pembina-Neche]",
+        "coopName": "North Border co-op",
+        "componentSchools": [
+          "Walhalla",
+          "Pembina",
+          "Neche"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "North Border co-op",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Neche"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "North Prairie co-op [Rolette/Wolford/Rolla]",
+        "coopName": "North Prairie co-op",
+        "componentSchools": [
+          "Rolette",
+          "Wolford",
+          "Rolla"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "North Prairie co-op",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [],
+            "removed": [
+              "Rock Lake"
+            ]
+          }
+        ]
+      },
+      {
+        "scrapedName": "North Prairie co-op [Rolla/Rolette]",
+        "coopName": "North Prairie co-op",
+        "componentSchools": [
+          "Rolla",
+          "Rolette"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "North Prairie co-op",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [],
+            "removed": [
+              "Rock Lake",
+              "Wolford"
+            ]
+          }
+        ]
+      },
+      {
+        "scrapedName": "North Star co-op [Cando/Bisbee-Egeland/Munich/Starkweather]",
+        "coopName": "North Star co-op",
+        "componentSchools": [
+          "Cando",
+          "Bisbee-Egeland",
+          "Munich",
+          "Starkweather"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "North Star co-op",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Munich",
+              "Starkweather"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Powers Lake/Burke Central",
+        "coopName": "Powers Lake/Burke Central",
+        "componentSchools": [
+          "Powers Lake",
+          "Burke Central"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Powers Lake",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Powers Lake",
+              "Burke Central"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Solen/CannonballSolen",
+        "coopName": "Solen/CannonballSolen",
+        "componentSchools": [
+          "Solen",
+          "CannonballSolen"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Solen",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Solen",
+              "CannonballSolen"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "South Prairie/Max",
+        "coopName": "South Prairie/Max",
+        "componentSchools": [
+          "South Prairie",
+          "Max"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Max",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "South Prairie",
+              "Max"
+            ],
+            "removed": []
+          }
+        ]
+      },
+      {
+        "scrapedName": "Westhope/NewburgWest",
+        "coopName": "Westhope/NewburgWest",
+        "componentSchools": [
+          "Westhope",
+          "NewburgWest"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Westhope/Newburg",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "NewburgWest"
+            ],
+            "removed": [
+              "Newburg"
+            ]
+          }
+        ]
+      },
+      {
+        "scrapedName": "Wyndmere/LidgerwoodWyndmere",
+        "coopName": "Wyndmere/LidgerwoodWyndmere",
+        "componentSchools": [
+          "Wyndmere",
+          "LidgerwoodWyndmere"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Wyndmere",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Wyndmere",
+              "LidgerwoodWyndmere"
+            ],
+            "removed": []
+          }
+        ]
+      }
+    ],
+    "dissolved": [
+      {
+        "name": "Adams-Edmore",
+        "componentSchools": [
+          "Adams",
+          "Edmore"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Adams-Edmore/Edinburg",
+        "componentSchools": [
+          "Adams-Edmore",
+          "Edinburg"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Ashley/Wishek",
+        "componentSchools": [
+          "Ashley",
+          "Wishek"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Berthold/North Shore",
+        "componentSchools": [
+          "Berthold",
+          "North Shore"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Berthold/Our Redeemer's Christian",
+        "componentSchools": [
+          "Berthold",
+          "Our Redeemer's Christian"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Berthold/Our Redeemer's Christian/North Shore",
+        "componentSchools": [
+          "Berthold",
+          "Our Redeemer's Christian",
+          "North Shore"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Beulah/Golden Valley",
+        "componentSchools": [
+          "Beulah",
+          "Golden Valley"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Bisbee-Egeland/Rock Lake",
+        "componentSchools": [
+          "Bisbee-Egeland",
+          "Rock Lake"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Bishop Ryan/Sawyer",
+        "componentSchools": [
+          "Bishop Ryan",
+          "Sawyer"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Bottineau/Newburg",
+        "componentSchools": [
+          "Bottineau",
+          "Newburg"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Carrington/Kensal",
+        "componentSchools": [
+          "Carrington",
+          "Kensal"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Carrington/Pingree-Buchanan/Kensal",
+        "componentSchools": [
+          "Carrington",
+          "Pingree-Buchanan",
+          "Kensal"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Pingree-Buchanan",
+        "componentSchools": [
+          "Pingree",
+          "Buchanan"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Carrington/Pingree-Buchanan/Kensal/Sykeston",
+        "componentSchools": [
+          "Carrington",
+          "Pingree-Buchanan",
+          "Kensal",
+          "Sykeston"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Central McLean co-op [Underwood/Turtle Lake-Mercer]",
+        "componentSchools": [
+          "Underwood",
+          "Turtle Lake-Mercer"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Central Prairie [Gackle-Streeter/Medina]",
+        "componentSchools": [
+          "Gackle-Streeter",
+          "Medina"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Dakota Oyate [Solen/Selfridge]",
+        "componentSchools": [
+          "Solen",
+          "Selfridge"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Devils Lake/North Dakota School for the Deaf/Minnewaukan",
+        "componentSchools": [
+          "Devils Lake",
+          "North Dakota School for the Deaf",
+          "Minnewaukan"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Drayton/St. Thomas/Valley",
+        "componentSchools": [
+          "Drayton",
+          "St. Thomas",
+          "Valley"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Drayton/Valley-Edinburg",
+        "componentSchools": [
+          "Drayton",
+          "Valley-Edinburg"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Ellendale/Edgeley/Kulm",
+        "componentSchools": [
+          "Ellendale",
+          "Edgeley",
+          "Kulm"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Flasher-Carson",
+        "componentSchools": [
+          "Flasher",
+          "Carson"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Flasher/Carson/Elgin-New Leipzig",
+        "componentSchools": [
+          "Flasher",
+          "Carson",
+          "Elgin-New Leipzig"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Fordville Lankin/Park River",
+        "componentSchools": [
+          "Fordville Lankin",
+          "Park River"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Four Winds/Warwick",
+        "componentSchools": [
+          "Four Winds",
+          "Warwick"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Four Winds/Warwick/Minnewaukan",
+        "componentSchools": [
+          "Four Winds",
+          "Warwick",
+          "Minnewaukan"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Garrison/Max",
+        "componentSchools": [
+          "Garrison",
+          "Max"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Glenburn/Mohall/Sherwood",
+        "componentSchools": [
+          "Glenburn",
+          "Mohall",
+          "Sherwood"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Golden Valley/Dodge/Halliday",
+        "componentSchools": [
+          "Golden Valley",
+          "Dodge",
+          "Halliday"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Grant County/Flasher",
+        "componentSchools": [
+          "Grant County",
+          "Flasher"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Griggs County Central/Finley-Sharon/Midkota",
+        "componentSchools": [
+          "Griggs County Central",
+          "Finley-Sharon",
+          "Midkota"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Griggs-Barnes County [Griggs County Central/North Central/Wimbledon-Courtenay]",
+        "componentSchools": [
+          "Griggs County Central",
+          "North Central",
+          "Wimbledon-Courtenay"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Hankinson/Campbell-Tintah/Fairmount",
+        "componentSchools": [
+          "Hankinson",
+          "Campbell-Tintah",
+          "Fairmount"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Hankinson/Fairmount",
+        "componentSchools": [
+          "Hankinson",
+          "Fairmount"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Hazen/Beulah",
+        "componentSchools": [
+          "Hazen",
+          "Beulah"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Jamestown/Medina",
+        "componentSchools": [
+          "Jamestown",
+          "Medina"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Kenmare/Bowbells/Burke Central",
+        "componentSchools": [
+          "Kenmare",
+          "Bowbells",
+          "Burke Central"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Kindred/Richland",
+        "componentSchools": [
+          "Kindred",
+          "Richland"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Lakota/Adams-Edmore",
+        "componentSchools": [
+          "Lakota",
+          "Adams-Edmore"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Lakota/Adams-Edmore/Dakota Prairie",
+        "componentSchools": [
+          "Lakota",
+          "Adams-Edmore",
+          "Dakota Prairie"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "LaMoure/Litchville-Marion/Montpelier",
+        "componentSchools": [
+          "LaMoure",
+          "Litchville-Marion",
+          "Montpelier"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Langdon/Munich/Border Central",
+        "componentSchools": [
+          "Langdon",
+          "Munich",
+          "Border Central"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Larimore/Midway",
+        "componentSchools": [
+          "Larimore",
+          "Midway"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Litchville-Marion/Montpelier",
+        "componentSchools": [
+          "Litchville-Marion",
+          "Montpelier"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Maple Valley/Enderlin",
+        "componentSchools": [
+          "Maple Valley",
+          "Enderlin"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Max/Sawyer",
+        "componentSchools": [
+          "Max",
+          "Sawyer"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Midkota/North Central/Wells County/Griggs County",
+        "componentSchools": [
+          "Midkota",
+          "North Central",
+          "Wells County",
+          "Griggs County"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Midway/Minto/Colony",
+        "componentSchools": [
+          "Midway",
+          "Minto",
+          "Colony"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Minnewaukan/Sheyenne",
+        "componentSchools": [
+          "Minnewaukan",
+          "Sheyenne"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Minot/Dakota Memorial",
+        "componentSchools": [
+          "Minot",
+          "Dakota Memorial"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Munich/Starkweather/Cando",
+        "componentSchools": [
+          "Munich",
+          "Starkweather",
+          "Cando"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "New Salem/Glen Ullin",
+        "componentSchools": [
+          "New Salem",
+          "Glen Ullin"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "New Town/Mandaree",
+        "componentSchools": [
+          "New Town",
+          "Mandaree"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "North Shore/Parshall/Berthold",
+        "componentSchools": [
+          "North Shore",
+          "Parshall",
+          "Berthold"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Oak Grove Lutheran/Park Christian",
+        "componentSchools": [
+          "Oak Grove Lutheran",
+          "Park Christian"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Park River/Fordville-Lankin/Edinburg",
+        "componentSchools": [
+          "Park River",
+          "Fordville-Lankin",
+          "Edinburg"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Parshall/White Shield",
+        "componentSchools": [
+          "Parshall",
+          "White Shield"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Powers Lake/Wildrose-Alamo",
+        "componentSchools": [
+          "Powers Lake",
+          "Wildrose-Alamo"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Richardton-Taylor/Hebron",
+        "componentSchools": [
+          "Richardton-Taylor",
+          "Hebron"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Rolla/Rock Lake",
+        "componentSchools": [
+          "Rolla",
+          "Rock Lake"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Shanley/Oak Grove Lutheran",
+        "componentSchools": [
+          "Shanley",
+          "Oak Grove Lutheran"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Shiloh Christian/Strasburg/Linton",
+        "componentSchools": [
+          "Shiloh Christian",
+          "Strasburg",
+          "Linton"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Solen/Cannonball",
+        "componentSchools": [
+          "Solen",
+          "Cannonball"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "South Heart/Belfield",
+        "componentSchools": [
+          "South Heart",
+          "Belfield"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Southern McLean [Washburn/Wilton/Wing]",
+        "componentSchools": [
+          "Washburn",
+          "Wilton",
+          "Wing"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Stanley/Powers Lake",
+        "componentSchools": [
+          "Stanley",
+          "Powers Lake"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Steele-Dawson",
+        "componentSchools": [
+          "Steele",
+          "Dawson"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Steele-Dawson/Wing/Napoleon",
+        "componentSchools": [
+          "Steele-Dawson",
+          "Wing",
+          "Napoleon"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Steele-Dawson/Wing/Tuttle-Pettibone",
+        "componentSchools": [
+          "Steele-Dawson",
+          "Wing",
+          "Tuttle-Pettibone"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Steele-Dawson/Wing/Tuttle-Pettibone/Napoleon",
+        "componentSchools": [
+          "Steele-Dawson",
+          "Wing",
+          "Tuttle-Pettibone",
+          "Napoleon"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Trenton/Trinity Christian",
+        "componentSchools": [
+          "Trenton",
+          "Trinity Christian"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Tri-County co-op [Drake/Anamoose/McClusky/Goodrich]",
+        "componentSchools": [
+          "Drake",
+          "Anamoose",
+          "McClusky",
+          "Goodrich"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Trinity/New England",
+        "componentSchools": [
+          "Trinity",
+          "New England"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Turtle Lake-Mercer/Underwood/McClusky/Goodrich",
+        "componentSchools": [
+          "Turtle Lake-Mercer",
+          "Underwood",
+          "McClusky",
+          "Goodrich"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Valley/Edinburg",
+        "componentSchools": [
+          "Valley",
+          "Edinburg"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Velva/Drake",
+        "componentSchools": [
+          "Velva",
+          "Drake"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Velva/Drake/Anamoose",
+        "componentSchools": [
+          "Velva",
+          "Drake",
+          "Anamoose"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Velva/Sawyer",
+        "componentSchools": [
+          "Velva",
+          "Sawyer"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Walhalla/Pembina/Drayton",
+        "componentSchools": [
+          "Walhalla",
+          "Pembina",
+          "Drayton"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Washburn/Wilton/Center-Stanton",
+        "componentSchools": [
+          "Washburn",
+          "Wilton",
+          "Center-Stanton"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Watford City/Alexander/Johnson Corners Christian Academy",
+        "componentSchools": [
+          "Watford City",
+          "Alexander",
+          "Johnson Corners Christian Academy"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Westhope/Newburg/Glenburn",
+        "componentSchools": [
+          "Westhope",
+          "Newburg",
+          "Glenburn"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Westhope/Newburg/Melita",
+        "componentSchools": [
+          "Westhope",
+          "Newburg",
+          "Melita"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Williams County co-op [Tioga/Ray]",
+        "componentSchools": [
+          "Tioga",
+          "Ray"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Wing/Tuttle",
+        "componentSchools": [
+          "Wing",
+          "Tuttle"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      },
+      {
+        "name": "Wyndmere/Lidgerwood",
+        "componentSchools": [
+          "Wyndmere",
+          "Lidgerwood"
+        ],
+        "status": "dissolved",
+        "note": "In CSV but not found in recent scrape"
+      }
+    ],
+    "nameVariations": [
+      {
+        "scrapedName": "Des Lacs-BurlingtonDes Lacs",
+        "coopName": "Des Lacs-BurlingtonDes Lacs",
+        "componentSchools": [
+          "Des Lacs",
+          "BurlingtonDes Lacs"
+        ],
+        "yearsActive": [
+          2026
+        ],
+        "status": "membership_changed",
+        "matchedTo": "Des Lacs-Burlington",
+        "issues": [
+          {
+            "type": "membership_change",
+            "added": [
+              "Des Lacs",
+              "BurlingtonDes Lacs"
+            ],
+            "removed": []
+          },
+          {
+            "type": "name_variation",
+            "scraped": "Des Lacs-BurlingtonDes Lacs",
+            "existing": "Des Lacs-Burlington",
+            "similarity": 0.9
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Dakota",
+        "type": "state"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-104.0489, 45.9443],
+          [-104.0445, 48.9999],
+          [-96.5543, 49.0000],
+          [-96.5617, 45.9351],
+          [-104.0489, 45.9443]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "District 32 Region",
+        "type": "district",
+        "districtNumber": 32
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-104.05, 45.93],
+          [-104.05, 47.15],
+          [-101.50, 47.15],
+          [-101.50, 45.93],
+          [-104.05, 45.93]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bowman County", "type": "county" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-104.05, 45.93], [-104.05, 46.28], [-102.94, 46.28], [-102.94, 45.93], [-104.05, 45.93]
+        ]]
+      }
+    },
+    {
+      "type": "Feature", 
+      "properties": { "name": "Adams County", "type": "county" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-102.94, 45.93], [-102.94, 46.28], [-102.00, 46.28], [-102.00, 45.93], [-102.94, 45.93]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hettinger County", "type": "county" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-102.94, 46.28], [-102.94, 46.63], [-102.00, 46.63], [-102.00, 46.28], [-102.94, 46.28]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Slope County", "type": "county" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-104.05, 46.28], [-104.05, 46.63], [-102.94, 46.63], [-102.94, 46.28], [-104.05, 46.28]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Golden Valley County", "type": "county" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-104.05, 46.63], [-104.05, 47.00], [-103.50, 47.00], [-103.50, 46.63], [-104.05, 46.63]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Stark County", "type": "county" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-103.50, 46.63], [-103.50, 47.15], [-102.50, 47.15], [-102.50, 46.63], [-103.50, 46.63]
+        ]]
+      }
+    }
+  ]
+}

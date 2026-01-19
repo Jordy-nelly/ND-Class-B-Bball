@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-01-17T22:23:38.306Z",
+  "summary": {
+    "schoolsValidated": 0,
+    "newSchools": 0,
+    "schoolsWithDiscrepancies": 0,
+    "yearsValidated": 0,
+    "newYears": 0,
+    "districtDiscrepancies": 0
+  },
+  "schools": {
+    "new": [],
+    "discrepancies": [],
+    "suggestions": []
+  },
+  "districts": {
+    "newData": [],
+    "discrepancies": [],
+    "suggestions": []
+  }
+}
